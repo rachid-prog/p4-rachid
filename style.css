@@ -7,16 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
-a,
-button {
-    transition: all .3s ease-in-out;
-    outline: none!important;
-}
+a,button {transition: all .3s ease-in-out; }
+li:hover a{color:#000;}
 
-a:hover {
-    text-decoration: none;
-    cursor: pointer;
-}
+
 
 #page-loading-blocs-notifaction {
     position: fixed;
