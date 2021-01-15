@@ -731,7 +731,7 @@ h4 {
 }
 
 .white {
-    color: #000!important;
+    color: #fff!important;
 }
 
 .portfolio-thumb {
@@ -766,7 +766,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #A71C12;
 }
 
 .tc-white {
@@ -820,10 +820,11 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
-footer a{background: red;font-size: 1em;color:green}
-footer li{color:rgba(0,0,0);font-size: 1.2em;list-style-type: none}
-footer a{color:#000;}
 
+footer span{display: inline-block;font-size: 1.2em}
+footer li{color:#fff;font-size: 1.2em;list-style-type: none}
+.link:visited{color:#fff;}
+a{color:inherit;}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
