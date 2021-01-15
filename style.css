@@ -823,7 +823,8 @@ h4 {
 
 footer span{display: inline-block;font-size: 1.2em}
 footer li{color:#fff;font-size: 1.2em;list-style-type: none}
-.link{color:#fff;}
+.link{color:#fff;transform: all .2s;}
+.active:hover{border-bottom: 2px solid #fff}
 
 a{color:inherit;}
 @media (max-width: 1024px) {
