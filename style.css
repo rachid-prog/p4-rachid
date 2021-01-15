@@ -820,7 +820,7 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
-footer li{color:rgba(0,0,0);font-size: 1.2em;list-style-type: }
+footer li{color:rgba(0,0,0);font-size: 1.2em;li}
 footer a{color:#000;}
 
 @media (max-width: 1024px) {
