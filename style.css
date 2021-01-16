@@ -148,16 +148,16 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a {    font-family: "helvetica";    font-weight: 
 .statement-bloc-text {    line-height: 26px;    font-style: italic;    font-size: 20px;    text-align: center;    font-weight: lighter;    max-width: 520px;
     margin: auto auto auto auto;}
 
-p {    font-size: 1.2em;}
+p {font-size: 1.2em;color:#000;}
 .tight-width-whitespace {max-width: 600px;margin: auto auto auto auto;}
 .h1 {    font-size: 20px;    font-family: "Open Sans";}
 .cta-hero {    margin-top: 22px;    color: #FFFFFF!important;text-transform: uppercase;padding: 12px 28px 12px 28px;font-size: 16px;font-weight: 700;}
 
-.social {    max-width: 400px;    margin: auto auto auto auto;}
+.social {max-width: 400px;  margin: auto auto auto auto;}
 
-h2 {    font-size: 22px;    line-height: 1.4em;}
+h2 {font-size: 22px; line-height: 1.4em;}
 
-h3 {    font-size: 15px;    text-transform: uppercase;    font-weight: 700;    color: #333333!important;}
+h3 {font-size: 15px;text-transform: uppercase;font-weight: 700;color: #333333!important;}
 
 .med-width-whitespace {    max-width: 800px;    margin: auto auto auto auto;    box-shadow: 0px 0px 0px #000000;}
 
@@ -179,7 +179,7 @@ h4 {color: #333333!important;}
 .bgc-white {    background-color: #FFFFFF;}
 .bgc-dark-slate-blue {    background-color: #364577;}
 .bgc-atomic-tangerine {    background-color: #A71C12;}
-.tc-white {color:#0E56A7;}
+.tc-white {color:#0039A7;}
 .btn-atomic-tangerine {    background: #F3976C;    color: rgba(0,0,0,0.6)!important;}
 .btn-atomic-tangerine:hover {background: #F3976C!important;    color: rgba(0,0,0,1)!important;}
 .ltc-white {    color: #FFFFFF!important;}
