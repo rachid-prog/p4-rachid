@@ -116,8 +116,8 @@ p {font-size: 1.2em;color:#000;}
 .icon-dark-slate-blue {color: #364577!important;    border-color: #364577!important;}
 .bg-dots-bg {background-image: url("img/dots-bg.png");}
 .bg-lines-h2-bg {background-image: url("img/lines-h2-bg.png");}
-.bg-banniere { background:center/cover url("img/la-chouette-agence-banniere.jpg");}
-.bg-presentation {background-image: url("img/image-de-presentation.bmp");}
+.bg-banniere { background:center/cover url("img/la-chouette-agence-banniere.webp");}
+.bg-presentation {background-image: url("img/image-de-presentation.webp");}
 footer span{display: inline-block;font-size: 1.2em}
 footer li{color:#fff;font-size: 1.2em;list-style-type: none}
 .link{color:#fff; transition:0.2s;}
