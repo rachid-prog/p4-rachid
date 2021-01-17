@@ -108,7 +108,7 @@ p {font-size: 1.2em;color:#000;}
 .bgc-white {background-color: #FFFFFF;}
 .bgc-dark-slate-blue {background-color: #364577;}
 .bgc-atomic-tangerine {background-color: #A71C12;}
-.tc-white {color:#fff;font-size: 3em}
+.tc-white {color:#000;font-size: 3em}
 .btn-atomic-tangerine {background:#F3B36C;color:#000!important;}
 .btn-atomic-tangerine:hover {background:#F3CF6C!important }
 .ltc-white {color: #FFFFFF!important;}
